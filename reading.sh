@@ -1,5 +1,5 @@
 #!/bin/bash
-read count 
+count=$1
 co=0 
 while [ $co -lt $count ]
 do 
